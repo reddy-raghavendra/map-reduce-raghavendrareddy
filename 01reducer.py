@@ -1,3 +1,4 @@
+# Raghavendra Reddy
 sortedFile = open("sortedFile.txt","r")
 reducerFile = open("reducedFile.txt", "w")
 

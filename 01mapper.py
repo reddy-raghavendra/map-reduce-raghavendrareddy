@@ -1,3 +1,4 @@
+# Raghavendra Reddy
 f = open("purchases.txt","r")  # open file, read-only
 o = open("output.txt", "w") # open file, write
 for line in f:  

@@ -1,0 +1,103 @@
+St. Louis	459.14
+Indianapolis	569.5999999999999
+Orlando	636.78
+Portland	749.49
+El Paso	925.94
+San Antonio	970.8399999999999
+Chula Vista	1035.82
+Arlington	1062.1299999999999
+Henderson	1072.47
+Virginia Beach	1093.35
+Garland	1208.82
+Long Beach	1250.87
+Detroit	1266.5
+Cleveland	1281.91
+Los Angeles	1299.7
+St. Petersburg	1313.9899999999998
+San Diego	1319.55
+Cincinnati	1328.0
+Louisville	1391.3200000000002
+Rochester	1407.56
+Reno	1430.8400000000001
+Tulsa	1441.0
+Fort Wayne	1443.8400000000001
+Madison	1456.36
+Oklahoma City	1471.83
+Washington	1481.72
+Denver	1521.22
+New Orleans	1558.68
+Fremont	1622.3300000000002
+Sacramento	1634.6200000000001
+Corpus Christi	1654.94
+Laredo	1662.61
+Glendale	1662.97
+Bakersfield	1677.27
+Atlanta	1677.36
+Irvine	1696.94
+Riverside	1707.6200000000001
+Mesa	1715.83
+Dallas	1720.94
+Plano	1731.93
+Hialeah	1760.57
+Irving	1812.73
+Las Vegas	1828.31
+Buffalo	1828.8999999999999
+Saint Paul	1836.3799999999999
+Stockton	1841.3700000000001
+North Las Vegas	1843.12
+Wichita	1894.27
+Gilbert	1908.2799999999997
+Spokane	1915.48
+Colorado Springs	1917.1599999999999
+Phoenix	1970.51
+Miami	1983.9999999999998
+Charlotte	2005.5500000000002
+Honolulu	2015.28
+Boise	2036.74
+Tampa	2072.83
+Baton Rouge	2087.42
+Fresno	2117.09
+Jersey City	2128.06
+Newark	2149.2200000000003
+Chesapeake	2194.85
+Aurora	2195.52
+Birmingham	2198.16
+Anaheim	2218.5000000000005
+Toledo	2246.83
+Kansas City	2248.28
+San Bernardino	2257.79
+Richmond	2272.73
+Jacksonville	2287.3700000000003
+Winston–Salem	2293.1600000000003
+Chicago	2324.2000000000003
+Memphis	2325.0699999999997
+Oakland	2350.11
+Durham	2374.4500000000003
+Raleigh	2461.77
+Anchorage	2468.6600000000003
+Minneapolis	2484.7299999999996
+Norfolk	2513.21
+Philadelphia	2517.8199999999997
+Baltimore	2576.0299999999997
+Fort Worth	2646.87
+Pittsburgh	2674.45
+Columbus	2730.5099999999998
+New York	2730.88
+Lexington	2765.27
+San Jose	2770.0799999999995
+Nashville	2843.629999999999
+Lincoln	2851.6299999999997
+Seattle	2893.31
+Albuquerque	2915.06
+Omaha	3024.3599999999997
+Greensboro	3054.0399999999995
+Tucson	3085.37
+San Francisco	3168.43
+Houston	3283.6600000000003
+Austin	3404.6600000000003
+Milwaukee	3431.01
+Boston	3482.2099999999996
+Lubbock	3493.38
+Santa Ana	3623.07
+Scottsdale	4034.65
+Chandler	4125.46
